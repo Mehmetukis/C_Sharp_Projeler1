@@ -1,0 +1,7 @@
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\bin\Debug\İstediğin yazıyı istediğin kadar yazdırma.exe.config
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\bin\Debug\İstediğin yazıyı istediğin kadar yazdırma.exe
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\bin\Debug\İstediğin yazıyı istediğin kadar yazdırma.pdb
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\obj\Debug\İstediğin yazıyı istediğin kadar yazdırma.csproj.AssemblyReference.cache
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\obj\Debug\İstediğin yazıyı istediğin kadar yazdırma.csproj.CoreCompileInputs.cache
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\obj\Debug\İstediğin yazıyı istediğin kadar yazdırma.exe
+C:\pc\yazilim klasörleri\C family\C#\ConsoleApp1\ConsoleApp29\İstediğin yazıyı istediğin kadar yazdırma\obj\Debug\İstediğin yazıyı istediğin kadar yazdırma.pdb
